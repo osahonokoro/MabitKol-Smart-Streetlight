@@ -1,0 +1,77 @@
+
+================================================================================
+TONY ELUMELU FOUNDATION ENTREPRENEURSHIP PROGRAM - APPLICATION
+================================================================================
+
+APPLICANT INFORMATION
+--------------------------------------------------------------------------------
+Full Name: Osahon Okoro
+Email Address: osahonokoro@gmail.com
+Phone Number: +234-8069006291
+Country: Nigeria
+LinkedIn Profile: https://www.linkedin.com/in/sydnet-osahon-b81ba8241
+Website: www.MabitKolLighting.com
+
+BUSINESS INFORMATION
+--------------------------------------------------------------------------------
+Business Name: MabitKol Smart Lighting
+Business Sector: Smart Technology / Security / Renewable Energy
+Year Founded: 2024
+Registration Status: To be registered upon funding
+Number of Employees: 1 (Founder) + 50 planned Year 1
+
+PROBLEM STATEMENT
+--------------------------------------------------------------------------------
+1. SECURITY COSTS: African businesses spend 15-25% more annually on security
+2. ENERGY WASTE: Public lighting consumes 40-60% excess energy
+3. INFRASTRUCTURE CHALLENGES: Unreliable electricity affects security systems
+
+OUR SOLUTION: MABITKOL SMART STREETLIGHT
+--------------------------------------------------------------------------------
+MabitKol integrates five key technologies:
+1. PTZ CAMERA: Motion-triggered 20x optical zoom
+2. EDGE AI PROCESSING: On-device detection (works without internet)
+3. MESH NETWORKING: Seamless handover between lights
+4. SOLAR POWER SYSTEM: 72-hour autonomy, 60% energy savings
+5. SMART LIGHTING: Adaptive brightness based on motion
+
+TECHNICAL VALIDATION
+--------------------------------------------------------------------------------
+Simulation Results (30 seconds, 4 streetlights, 10 FPS):
+• Energy Savings: 65%
+• False Alarm Reduction: 85%
+• Coverage Increase: 300%
+• Response Time: 1.8 seconds
+• Objects Tracked: 8-12 per frame
+
+Source Code: https://github.com/osahonokoro/MabitKol-Smart-Streetlight
+
+BUSINESS MODEL
+--------------------------------------------------------------------------------
+Revenue Streams:
+1. PRODUCT SALES: $4,000 per unit
+2. INSTALLATION: $500 per unit
+3. SaaS PLATFORM: $50/month per light
+4. MAINTENANCE: 15% annual contract
+
+FINANCIAL PROJECTIONS (Year 1)
+--------------------------------------------------------------------------------
+Units Deployed: 1,000
+Total Revenue: $5,400,000
+Net Profit: $600,000
+ROI: 125%
+
+FUNDING REQUIREMENTS
+--------------------------------------------------------------------------------
+Total Seed Funding Needed: $250,000
+Tony Elumelu Foundation Grant Request: $10,000
+Use of Grant:
+• Final prototype development: $4,000
+• Market validation studies: $3,000
+• Business registration & IP protection: $3,000
+
+================================================================================
+Date: 2026-02-24
+Applicant: Osahon Okoro
+Email: osahonokoro@gmail.com
+================================================================================
